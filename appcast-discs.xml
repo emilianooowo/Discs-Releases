@@ -3,6 +3,23 @@
     <channel>
         <title>Discs</title>
         <item>
+            <title>3.5.0</title>
+            <pubDate>Mon, 02 Nov 2026 17:39:59 -0600</pubDate>
+            <link>https://github.com/emilianooowo/Discs-Releases/releases/tag/v3.5.0</link>
+            <sparkle:version>10</sparkle:version>
+            <sparkle:shortVersionString>3.5.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>What's new in Discs 3.5.0</h2>
+<ul>
+<li>Create a local profile with a custom name and photo.</li>
+<li>See collection totals, recent albums, and all-time listening favorites.</li>
+<li>Include your profile in library backups and follow your preferred shelf style and zoom.</li>
+<li>Filter listening history by month, year, or all time.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/emilianooowo/Discs-Releases/releases/download/v3.5.0/Discs.zip" length="7819896" type="application/octet-stream" sparkle:edSignature="EkOb+0tl7ilTtGFjHEcWfYIkV/OS6Cb2gHuaNl3fceIoHVHfrHw/GKqwM1FBq+XBgNybzXBMYEbu/My1as2ZAw=="/>
+        </item>
+        <item>
             <title>3.4.0</title>
             <pubDate>Mon, 02 Nov 2026 16:07:38 -0600</pubDate>
             <link>https://github.com/emilianooowo/Discs-Releases/releases/tag/v3.4.0</link>
