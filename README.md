@@ -2,7 +2,7 @@
   <img src="https://github.com/emilianooowo/Discs-Releases/blob/main/1024.png" alt="Discs App Icon" width="222">
 </p>
 
-<p align="center"><a href="https://github.com/emilianooowo/Discs-Releases/releases/latest/download/Discs.zip"><strong>Descargar Discs 3.2.0</strong></a></p>
+<p align="center"><a href="https://github.com/emilianooowo/Discs-Releases/releases/latest/download/Discs.zip"><strong>Descargar Discs 3.3.0</strong></a></p>
 
 <h1 align="center">Discs</h1>
 
@@ -26,6 +26,14 @@
 **Discs** brings your physical music collection into a clean, thoughtful digital space. Explore your albums, keep track of your collection, and revisit the music that matters to you.
 
 Designed for collectors. Built for macOS. Private by default.
+
+## What’s new in 3.3.0
+
+- Select multiple CDs in All CDs and edit shared tags, locations, editions, and countries of origin together.
+- Open complete listening history in its own view.
+- Search history by artist, album, or genre and see matching sections update together.
+- Improved navigation stability when opening artist profiles.
+- Requires macOS 26.0 or later.
 
 ## What’s new in 3.2.0
 
