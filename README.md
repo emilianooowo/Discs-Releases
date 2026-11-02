@@ -2,7 +2,7 @@
   <img src="https://github.com/emilianooowo/Discs-Releases/blob/main/1024.png" alt="Discs App Icon" width="222">
 </p>
 
-<p align="center"><a href="https://github.com/emilianooowo/Discs-Releases/releases/latest/download/Discs.zip"><strong>Descargar la última versión de Discs</strong></a></p>
+<p align="center"><a href="https://github.com/emilianooowo/Discs-Releases/releases/latest/download/Discs.zip"><strong>Descargar Discs 3.1.0</strong></a></p>
 
 <h1 align="center">Discs</h1>
 
@@ -27,6 +27,14 @@
 
 Designed for collectors. Built for macOS. Private by default.
 
+## What's new in 3.1.0
+
+- The app identity and bundle identifier are now `emilianoleal.Discs`.
+- Backups use the `.discsbackup` extension. Existing version 3 backups remain importable.
+- Sparkle is configured for future updates.
+- Requires macOS 26.0 or later.
+- When upgrading from 3.0.0, install 3.1.0 manually once because the bundle identifier changed. Later compatible releases can update through Sparkle.
+
 ## Features
 
 | | Feature | Description |
@@ -36,7 +44,7 @@ Designed for collectors. Built for macOS. Private by default.
 | ♫ | **Tracklists & Lyrics** | Browse album details, track listings, and synchronized lyrics. |
 | ⌕ | **Global Search** | Quickly find albums, artists, tracks, and listening history with Liquid Glass previews. |
 | ◈ | **Private Library** | Keep your collection data stored locally on your Mac using SwiftData. |
-| ↗ | **Import & Export** | Back up and restore your library using portable `.archive` files. |
+| ↗ | **Import & Export** | Back up and restore your library using portable `.discsbackup` files. |
 
 ## Requirements
 
