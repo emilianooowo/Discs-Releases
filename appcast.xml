@@ -8,7 +8,7 @@
             <sparkle:version>3</sparkle:version>
             <sparkle:shortVersionString>3.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/emilianooowo/Discs-Releases/releases/latest/download/Discs.zip" length="7365687" type="application/octet-stream" sparkle:edSignature="G6JU0ZQsL4yQxCpiBbXQ56EbFmJwcXAzUaLXeJiSTGAYYPcoCNXdSVQiThUJmghVOOlXFYfQusbRgqzgsgcxCQ=="/>
+            <enclosure url="https://github.com/emilianooowo/Discs-Releases/releases/latest/download/Discs.zip" length="7366033" type="application/octet-stream" sparkle:edSignature="SshfbOzLqSFxsqjkNzBFkeC336jRTJEUn9FlZVFqhUOGui2Rdw5GDUVLpV36iNm2RjqgJIuLsfsUYHWSLUczAw=="/>
         </item>
     </channel>
 </rss>
