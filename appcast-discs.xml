@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Discs</title>
+        <item>
+            <title>3.1</title>
+            <pubDate>Sun, 01 Nov 2026 19:43:22 -0600</pubDate>
+            <link>https://github.com/emilianooowo/Discs-Releases/releases/latest</link>
+            <sparkle:version>4</sparkle:version>
+            <sparkle:shortVersionString>3.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/emilianooowo/Discs-Releases/releases/download/v3.1.0/Discs.zip" length="5692671" type="application/octet-stream" sparkle:edSignature="/UFPZ9zYaaJUjxzPSIotW21ydX+xmc56Pq5v1CBm/+oGUeW6aLI2b8cCVKiXfROipo+kYowSGCSatb/I/P5uDg=="/>
+        </item>
+    </channel>
+</rss>
