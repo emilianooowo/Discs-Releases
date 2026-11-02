@@ -27,6 +27,13 @@
 
 Designed for collectors. Built for macOS. Private by default.
 
+## Version history (source only)
+
+### 3.4.5
+
+- Filter Listen History by month, year, or all time, including rankings and full history.
+- This historical release has no downloadable app; 3.4.0 remains the latest available download.
+
 ## What’s new in 3.4.0
 
 - Edit shared CD fields with clear mixed values and pickers for tags, locations, editions, and imported countries.
