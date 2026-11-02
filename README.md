@@ -2,7 +2,7 @@
   <img src="https://github.com/emilianooowo/Discs-Releases/blob/main/1024.png" alt="Discs App Icon" width="222">
 </p>
 
-<p align="center"><a href="https://github.com/emilianooowo/Discs-Releases/releases/latest/download/Discs.zip"><strong>Descargar Discs 3.1.0</strong></a></p>
+<p align="center"><a href="https://github.com/emilianooowo/Discs-Releases/releases/latest/download/Discs.zip"><strong>Descargar Discs 3.2.0</strong></a></p>
 
 <h1 align="center">Discs</h1>
 
@@ -27,13 +27,17 @@
 
 Designed for collectors. Built for macOS. Private by default.
 
-## What's new in 3.1.0
+## What’s new in 3.2.0
 
-- The app identity and bundle identifier are now `emilianoleal.Discs`.
-- Backups use the `.discsbackup` extension. Existing version 3 backups remain importable.
-- Sparkle is configured for future updates.
+- Set a home country and a country of origin for each CD. Existing albums remain unchanged unless you edit their country.
+- Sort each location table independently.
+- See the selected album below the Now Playing title and use an improved location selector.
+- Search genres globally and avoid duplicate albums in tag results.
+- Lyrics adapt their contrast to the album background.
+- Library Dates uses native Liquid Glass options.
 - Requires macOS 26.0 or later.
-- When upgrading from 3.0.0, install 3.1.0 manually once because the bundle identifier changed. Later compatible releases can update through Sparkle.
+
+If you are upgrading from 3.0.0, install 3.1.0 manually once because the bundle identifier changed. Later releases can update through Sparkle.
 
 ## Features
 
