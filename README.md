@@ -2,7 +2,7 @@
   <img src="https://github.com/emilianooowo/Discs-Releases/blob/main/1024.png" alt="Discs App Icon" width="222">
 </p>
 
-<p align="center"><a href="https://github.com/emilianooowo/Discs-Releases/releases/latest/download/Discs.zip"><strong>Descargar Discs 3.3.0</strong></a></p>
+<p align="center"><a href="https://github.com/emilianooowo/Discs-Releases/releases/latest/download/Discs.zip"><strong>Download Discs 3.4.0</strong></a></p>
 
 <h1 align="center">Discs</h1>
 
@@ -26,6 +26,16 @@
 **Discs** brings your physical music collection into a clean, thoughtful digital space. Explore your albums, keep track of your collection, and revisit the music that matters to you.
 
 Designed for collectors. Built for macOS. Private by default.
+
+## What’s new in 3.4.0
+
+- Edit shared CD fields with clear mixed values and pickers for tags, locations, editions, and imported countries.
+- See consistent domestic, imported, unknown-country, and unset labels across album details and tables.
+- Find clearer context-menu actions with system icons, and edit multiple selected albums from the grid or table.
+- Use simplified Settings, more focused artist, genre, and location tables, and a compact recent listening-history preview.
+- Search the manual CD picker in Shuffle and use a simpler Now Playing experience.
+- Removed phrase-based notifications.
+- Requires macOS 26.0 or later.
 
 ## What’s new in 3.3.0
 

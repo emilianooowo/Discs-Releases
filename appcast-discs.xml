@@ -3,6 +3,25 @@
     <channel>
         <title>Discs</title>
         <item>
+            <title>3.4.0</title>
+            <pubDate>Mon, 02 Nov 2026 16:07:38 -0600</pubDate>
+            <link>https://github.com/emilianooowo/Discs-Releases/releases/tag/v3.4.0</link>
+            <sparkle:version>7</sparkle:version>
+            <sparkle:shortVersionString>3.4.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>What’s new in Discs 3.4.0</h2>
+<ul>
+<li>Edit shared CD fields with clear mixed values and pickers for tags, locations, editions, and imported countries.</li>
+<li>See consistent domestic, imported, unknown-country, and unset labels across album details and tables.</li>
+<li>Find clearer context-menu actions with system icons, and edit multiple selected albums from the grid or table.</li>
+<li>Use simplified Settings, more focused artist, genre, and location tables, and a compact recent listening-history preview.</li>
+<li>Search the manual CD picker in Shuffle and use a simpler Now Playing experience.</li>
+<li>Removed phrase-based notifications.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/emilianooowo/Discs-Releases/releases/download/v3.4.0/Discs.zip" length="5817296" type="application/octet-stream" sparkle:edSignature="+Jt5H/wWJ6Imf5G0I8XrmraN3X8D/L/A7nMFba3tapuTH3M6TZYPpzokVrvkEG8rawUMAwhnyPMi860RsqveCQ=="/>
+        </item>
+        <item>
             <title>3.3.0</title>
             <pubDate>Mon, 02 Nov 2026 14:32:43 -0600</pubDate>
             <link>https://github.com/emilianooowo/Discs-Releases</link>
