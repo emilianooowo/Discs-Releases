@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/emilianooowo/Discs/blob/main/DiscShelf/Assets.xcassets/AppIcon.appiconset/1024.png" alt="Discs App Icon" width="222">
+  <img src="https://github.com/emilianooowo/Discs-Releases/blob/main/1024.png" alt="Discs App Icon" width="222">
 </p>
 
 <p align="center"><a href="https://github.com/emilianooowo/Discs-Releases/releases/latest/download/Discs.zip"><strong>Descargar la última versión de Discs</strong></a></p>
