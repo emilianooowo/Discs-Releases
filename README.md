@@ -29,6 +29,11 @@ Designed for collectors. Built for macOS. Private by default.
 
 ## Version history (source only)
 
+### 3.4.6
+
+- Return to All Artists or All Genres when the sidebar selection is cleared.
+- This historical release has no downloadable app; 3.4.0 remains the latest available download.
+
 ### 3.4.5
 
 - Filter Listen History by month, year, or all time, including rankings and full history.
