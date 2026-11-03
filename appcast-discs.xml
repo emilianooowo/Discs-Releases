@@ -3,6 +3,23 @@
     <channel>
         <title>Discs</title>
         <item>
+            <title>3.6.0</title>
+            <pubDate>Mon, 02 Nov 2026 18:19:13 -0600</pubDate>
+            <link>https://github.com/emilianooowo/Discs-Releases/releases/tag/v3.6.0</link>
+            <sparkle:version>11</sparkle:version>
+            <sparkle:shortVersionString>3.6.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>What's new in Discs 3.6.0</h2>
+<ul>
+<li>Search CD editions by artist, title, or barcode and review imported artwork, genre, release date, and tracklist.</li>
+<li>Search lyrics in your collection or online, with more precise matches and album artwork.</li>
+<li>Add missing lyrics directly from CD details or Now Playing.</li>
+<li>Open CD search with Command-Shift-N.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/emilianooowo/Discs-Releases/releases/download/v3.6.0/Discs.zip" length="8139169" type="application/octet-stream" sparkle:edSignature="Q0TaWq6V4T90rUO3TJw27F8wQe6/eU2cWds45RGNZzNKOA4ujBPdSwbX9Fv1jsvyl4nfHw1W1bM1I3qy5OeOBw=="/>
+        </item>
+        <item>
             <title>3.5.0</title>
             <pubDate>Mon, 02 Nov 2026 17:39:59 -0600</pubDate>
             <link>https://github.com/emilianooowo/Discs-Releases/releases/tag/v3.5.0</link>
