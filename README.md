@@ -47,6 +47,11 @@ Designed for collectors. Built for macOS. Private by default.
 
 ## Version history (source only)
 
+### 3.6.2
+
+- Prepared standard-size artwork search and selection for Discs 3.7.
+- Historical release without downloadable app files; 3.6.1 remains the latest available download.
+
 ### 3.4.6
 
 - Return to All Artists or All Genres when the sidebar selection is cleared.
