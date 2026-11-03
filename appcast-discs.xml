@@ -2,6 +2,18 @@
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
         <item xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <title>Discs 4.1.1</title>
+  <link>https://github.com/emilianooowo/Discs-Releases/releases/tag/v4.1.1</link>
+  <pubDate>Tue, 03 Nov 2026 13:50:54 -0600</pubDate>
+  <sparkle:version>20</sparkle:version>
+  <sparkle:shortVersionString>4.1.1</sparkle:shortVersionString>
+  <sparkle:minimumSystemVersion>26.0.0</sparkle:minimumSystemVersion>
+  <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+  <description><![CDATA[<h2>What’s New in Discs 4.1.1</h2>
+<p>Fixes the Sparkle update package signing so the app validates and installs correctly.</p>]]></description>
+  <enclosure url="https://github.com/emilianooowo/Discs-Releases/releases/download/v4.1.1/Discs-4.1.1.zip" length="4663471" type="application/octet-stream" sparkle:edSignature="NDAe2tz9M9YOZ6zrPK8m7/L9LhGjiZc0x7tVR7mcPPIC5+L+aJrsbVJq+om69mYRlq14OQ6weC5hlZ2nHXlkDQ==" />
+</item>
+        <item xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
   <title>Discs 4.1</title>
   <link>https://github.com/emilianooowo/Discs-Releases/releases/tag/v4.1</link>
   <pubDate>Tue, 03 Nov 2026 13:14:00 -0600</pubDate>
