@@ -3,6 +3,18 @@
     <channel>
         <title>Discs</title>
         <item>
+            <title>3.6.1</title>
+            <pubDate>Mon, 02 Nov 2026 18:37:27 -0600</pubDate>
+            <link>https://github.com/emilianooowo/Discs-Releases/releases/tag/v3.6.1</link>
+            <sparkle:version>12</sparkle:version>
+            <sparkle:shortVersionString>3.6.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>Discs 3.6.1</h2>
+<p>Updates What’s New with the 3.6 features and a simplified history of major releases.</p>
+]]></description>
+            <enclosure url="https://github.com/emilianooowo/Discs-Releases/releases/download/v3.6.1/Discs.zip" length="8141885" type="application/octet-stream" sparkle:edSignature="ok47szOgy07nhvxn0YboN5beFfwK9Cx0B1d6TBwUv1o5AFkA8LKgVjevwUSQZ+D8y6LjD8SgmDnPAmmw4erlCA=="/>
+        </item>
+        <item>
             <title>3.6.0</title>
             <pubDate>Mon, 02 Nov 2026 18:19:13 -0600</pubDate>
             <link>https://github.com/emilianooowo/Discs-Releases/releases/tag/v3.6.0</link>

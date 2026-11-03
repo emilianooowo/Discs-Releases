@@ -2,7 +2,7 @@
   <img src="https://github.com/emilianooowo/Discs-Releases/blob/main/1024.png" alt="Discs App Icon" width="222">
 </p>
 
-<p align="center"><a href="https://github.com/emilianooowo/Discs-Releases/releases/latest/download/Discs.zip"><strong>Download Discs 3.6.0</strong></a></p>
+<p align="center"><a href="https://github.com/emilianooowo/Discs-Releases/releases/latest/download/Discs.zip"><strong>Download Discs 3.6.1</strong></a></p>
 
 <h1 align="center">Discs</h1>
 
@@ -27,6 +27,10 @@
 
 Designed for collectors. Built for macOS. Private by default.
 
+## Discs 3.6.1
+
+- What’s New now shows the 3.6 features and a simplified history of major versions.
+
 ## What’s new in 3.6.0
 
 - Search CD editions by artist, title, or barcode and review suggested artwork, genre, release date, and tracks before saving.
@@ -46,12 +50,12 @@ Designed for collectors. Built for macOS. Private by default.
 ### 3.4.6
 
 - Return to All Artists or All Genres when the sidebar selection is cleared.
-- This historical release has no downloadable app; 3.6.0 is the latest available download.
+- This historical release has no downloadable app; 3.6.1 is the latest available download.
 
 ### 3.4.5
 
 - Filter Listen History by month, year, or all time, including rankings and full history.
-- This historical release has no downloadable app; 3.6.0 is the latest available download.
+- This historical release has no downloadable app; 3.6.1 is the latest available download.
 
 ## What’s new in 3.4.0
 
