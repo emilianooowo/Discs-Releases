@@ -2,6 +2,16 @@
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
         <item xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <title>Discs 4.0</title>
+  <link>https://github.com/emilianooowo/Discs-Releases/releases/tag/v4.0</link>
+  <sparkle:version>18</sparkle:version>
+  <sparkle:shortVersionString>4.0</sparkle:shortVersionString>
+  <sparkle:minimumSystemVersion>26.0.0</sparkle:minimumSystemVersion>
+  <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+  <description><![CDATA[Password-protected library backups, independent grid and list preferences, and collection and navigation improvements. Requires an Apple silicon Mac.]]></description>
+  <enclosure url="https://github.com/emilianooowo/Discs-Releases/releases/download/v4.0/Discs-4.0.zip" length="5745504" type="application/octet-stream" sparkle:edSignature="bN9uqSFapw9Q2v47pRvIr53EFHxl/kzvKKAxuND8quSfgJrlcI3Fo3P9xrqeHBxJG1DHwy04m5wC5KadxRw3Bg==" />
+</item>
+        <item xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
   <title>Discs 3.9</title>
   <link>https://github.com/emilianooowo/Discs-Releases/releases/tag/v3.9</link>
   <sparkle:version>17</sparkle:version>
