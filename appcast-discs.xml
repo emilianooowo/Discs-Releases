@@ -2,6 +2,25 @@
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
         <item xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <title>Discs 4.1</title>
+  <link>https://github.com/emilianooowo/Discs-Releases/releases/tag/v4.1</link>
+  <pubDate>Tue, 03 Nov 2026 13:14:00 -0600</pubDate>
+  <sparkle:version>19</sparkle:version>
+  <sparkle:shortVersionString>4.1</sparkle:shortVersionString>
+  <sparkle:minimumSystemVersion>26.0.0</sparkle:minimumSystemVersion>
+  <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+  <description><![CDATA[<h2>What’s New in Discs 4.1</h2>
+<ul>
+<li>A simpler Add CD flow for entering the CDs you own.</li>
+<li>Find an editable tracklist through iTunes.</li>
+<li>Search iTunes for artwork, with clear image limits before importing.</li>
+<li>LRCLIB remains available for lyrics.</li>
+<li>Removed MusicBrainz, Cover Art Archive, automatic metadata and the separate music-database search.</li>
+<li>Simplified legacy backup import while retaining encrypted backups and import safety checks.</li>
+</ul>]]></description>
+  <enclosure url="https://github.com/emilianooowo/Discs-Releases/releases/download/v4.1/Discs-4.1.zip" length="5756904" type="application/octet-stream" sparkle:edSignature="dQ82B4uixopL0hS/SJQhnIpya0swRYtdk3sUOWtbRYoho3ZZm00S1WtcZUKiZxEyqNBMSJ/zZ8PMrJ2MsOk2Cg==" />
+</item>
+        <item xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
   <title>Discs 4.0</title>
   <link>https://github.com/emilianooowo/Discs-Releases/releases/tag/v4.0</link>
   <sparkle:version>18</sparkle:version>
