@@ -3,6 +3,22 @@
     <channel>
         <title>Discs</title>
         <item>
+            <title>3.7.0</title>
+            <pubDate>Mon, 02 Nov 2026 18:48:00 -0600</pubDate>
+            <link>https://github.com/emilianooowo/Discs-Releases/releases/tag/v3.7.0</link>
+            <sparkle:version>14</sparkle:version>
+            <sparkle:shortVersionString>3.7.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>What's new in Discs 3.7.0</h2>
+<ul>
+<li>Search for standard-size album artwork when adding or editing a CD.</li>
+<li>Choose an image from your Mac or search online by artist and album.</li>
+<li>Choose the iTunes Store country and preview artwork before applying it.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/emilianooowo/Discs-Releases/releases/download/v3.7.0/Discs.zip" length="8286982" type="application/octet-stream" sparkle:edSignature="/j2B6jCbXTFF6zw4ZZtI7SzSN5b4AIBISSZO6dVn50KDYOG9B8/8ZyE0z8UDaUZpLAizOLIFZdWhQ+ZlQ6v+BQ=="/>
+        </item>
+        <item>
             <title>3.6.1</title>
             <pubDate>Mon, 02 Nov 2026 18:37:27 -0600</pubDate>
             <link>https://github.com/emilianooowo/Discs-Releases/releases/tag/v3.6.1</link>

@@ -2,7 +2,7 @@
   <img src="https://github.com/emilianooowo/Discs-Releases/blob/main/1024.png" alt="Discs App Icon" width="222">
 </p>
 
-<p align="center"><a href="https://github.com/emilianooowo/Discs-Releases/releases/latest/download/Discs.zip"><strong>Download Discs 3.6.1</strong></a></p>
+<p align="center"><a href="https://github.com/emilianooowo/Discs-Releases/releases/latest/download/Discs.zip"><strong>Download Discs 3.7.0</strong></a></p>
 
 <h1 align="center">Discs</h1>
 
@@ -27,6 +27,12 @@
 
 Designed for collectors. Built for macOS. Private by default.
 
+## What’s new in 3.7.0
+
+- Search for standard-size artwork when adding or editing a CD.
+- Upload an image or search by artist and album, choose a store country, and preview the result.
+- Change the artwork from the blue camera menu in Edit CD.
+
 ## Discs 3.6.1
 
 - What’s New now shows the 3.6 features and a simplified history of major versions.
@@ -50,17 +56,17 @@ Designed for collectors. Built for macOS. Private by default.
 ### 3.6.2
 
 - Prepared standard-size artwork search and selection for Discs 3.7.
-- Historical release without downloadable app files; 3.6.1 remains the latest available download.
+- Historical release without downloadable app files; 3.7.0 is the latest available download.
 
 ### 3.4.6
 
 - Return to All Artists or All Genres when the sidebar selection is cleared.
-- This historical release has no downloadable app; 3.6.1 is the latest available download.
+- This historical release has no downloadable app; 3.7.0 is the latest available download.
 
 ### 3.4.5
 
 - Filter Listen History by month, year, or all time, including rankings and full history.
-- This historical release has no downloadable app; 3.6.1 is the latest available download.
+- This historical release has no downloadable app; 3.7.0 is the latest available download.
 
 ## What’s new in 3.4.0
 
