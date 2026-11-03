@@ -6,7 +6,7 @@ Discs is a macOS app for managing a personal music collection. Your library, lis
 
 Your library may contain album and artist information, artwork, lyrics, notes, prices, collection locations and listening dates. Your profile may contain a name and photo. Locations describe where you keep your collection; they are not GPS locations.
 
-These data remain on your Mac unless you export them or use a backup, synchronization or storage service that copies them. The security of those copies depends on your Mac and the services you choose.
+These data remain on your Mac unless you export them or use a backup, synchronization or storage service that copies them. Discs does not separately encrypt its local library; turn on FileVault in macOS to protect data on the disk. The security of copies depends on your Mac and the services you choose.
 
 ## Online features
 
@@ -23,7 +23,7 @@ Discs also checks its configured Sparkle update feed on GitHub. GitHub and the u
 
 ## Backups and images
 
-Library backups use the `.discsbackup` extension and contain JSON data. They can include your profile, images, listening history, notes and collection details. **Discs does not encrypt these backups:** anyone with access to a backup can read its contents. Save backups to a trusted location and use an encrypted storage solution if you need additional protection. CSV and PDF files exported by earlier versions can also contain collection information.
+New `.discsbackup` files are encrypted with a password you choose. They can include your profile, images, listening history, notes, collection details, locations, and view settings. The password is not stored by Discs and cannot be recovered. Older backups remain readable and are not encrypted. CSV and PDF files exported by earlier versions can also contain collection information.
 
 When a backup is imported, images are validated and re-encoded to remove original metadata and reduce their dimensions. Damaged or oversized images are skipped and Discs reports how many were omitted. Very large backups can require substantial memory during import.
 
@@ -35,4 +35,4 @@ You decide when to import or export a backup and whether to use online search. Y
 
 For questions about Discs and privacy, open an issue in [Discs Releases on GitHub](https://github.com/emilianooowo/Discs-Releases/issues). Issues are public and may require a GitHub account. **Do not include private information, backup files, personal photos or other sensitive content in an issue.**
 
-This information applies to Discs 3.9.
+This information applies to Discs 4.0.
