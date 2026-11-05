@@ -1,15 +1,32 @@
 <?xml version="1.0" standalone="yes"?>
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
+        <item>
+            <title>4.2.8</title>
+            <pubDate>Wed, 04 Nov 2026 21:41:51 -0600</pubDate>
+            <sparkle:version>22</sparkle:version>
+            <sparkle:shortVersionString>4.2.8</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description sparkle:format="markdown"><![CDATA[# Discs 4.2.8
+
+- Give artist profiles a bold new look with edge-to-edge banners, a theme-matched gradient, and a refreshed profile photo editor.
+- Limit artist banners and profile photos to 15 MB and 24 megapixels, and save them at up to 2048 pixels.
+- Enjoy a clearer Now Playing experience with a fixed-size cover, adaptive location selector, and messages for empty locations.
+- Keep wishlist artwork fully opaque while dimming it.
+- Set the Settings window to a fixed height of 700 points.
+]]></description>
+            <enclosure url="https://github.com/emilianooowo/Discs-Releases/releases/download/v4.2.8/Discs-4.2.8.zip" length="25821834" type="application/octet-stream" sparkle:edSignature="xebV74qSO5WdNwdY5AsHvfrNIMR7pDQHLrNwLg4NtTky2U1GjybdEnHH0k8OA3fJ9Xx3vgJs9FOZlpj1G0KIBQ=="/>
+        </item>
         <item xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
-  <title>Discs 4.2.0</title>
-  <link>https://github.com/emilianooowo/Discs-Releases/releases/tag/v4.2.0</link>
-  <pubDate>Wed, 04 Nov 2026 17:52:21 -0600</pubDate>
-  <sparkle:version>21</sparkle:version>
-  <sparkle:shortVersionString>4.2.0</sparkle:shortVersionString>
-  <sparkle:minimumSystemVersion>26.0.0</sparkle:minimumSystemVersion>
-  <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-  <description><![CDATA[<h2>What’s New in Discs 4.2.0</h2>
+            <title>Discs 4.2.0</title>
+            <link>https://github.com/emilianooowo/Discs-Releases/releases/tag/v4.2.0</link>
+            <pubDate>Wed, 04 Nov 2026 17:52:21 -0600</pubDate>
+            <sparkle:version>21</sparkle:version>
+            <sparkle:shortVersionString>4.2.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description><![CDATA[<h2>What’s New in Discs 4.2.0</h2>
 <ul>
 <li>Build a shuffle queue in Now Playing and browse its selected albums in the carousel.</li>
 <li>Search lyrics by song, artist, and album, including combined searches.</li>
@@ -17,30 +34,29 @@
 <li>Show only the interactive tutorial on first launch until it is completed or skipped.</li>
 <li>Includes collection editing, layout, artwork scaling, and navigation improvements.</li>
 </ul>]]></description>
-  <enclosure url="https://github.com/emilianooowo/Discs-Releases/releases/download/v4.2.0/Discs-4.2.0.zip" length="25799459" type="application/octet-stream" sparkle:edSignature="mA/TavFamYvPSIS5d7wqBmrSEQ9oEVdWWtDctpJMyn2P5RyBy2h4X84L1NpoVhBTI1n6DWA2HQ0/0AK7nBPMBQ==" />
-</item>
-
+            <enclosure url="https://github.com/emilianooowo/Discs-Releases/releases/download/v4.2.0/Discs-4.2.0.zip" length="25799459" type="application/octet-stream" sparkle:edSignature="mA/TavFamYvPSIS5d7wqBmrSEQ9oEVdWWtDctpJMyn2P5RyBy2h4X84L1NpoVhBTI1n6DWA2HQ0/0AK7nBPMBQ=="/>
+        </item>
         <item xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
-  <title>Discs 4.1.1</title>
-  <link>https://github.com/emilianooowo/Discs-Releases/releases/tag/v4.1.1</link>
-  <pubDate>Tue, 03 Nov 2026 13:50:54 -0600</pubDate>
-  <sparkle:version>20</sparkle:version>
-  <sparkle:shortVersionString>4.1.1</sparkle:shortVersionString>
-  <sparkle:minimumSystemVersion>26.0.0</sparkle:minimumSystemVersion>
-  <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-  <description><![CDATA[<h2>What’s New in Discs 4.1.1</h2>
+            <title>Discs 4.1.1</title>
+            <link>https://github.com/emilianooowo/Discs-Releases/releases/tag/v4.1.1</link>
+            <pubDate>Tue, 03 Nov 2026 13:50:54 -0600</pubDate>
+            <sparkle:version>20</sparkle:version>
+            <sparkle:shortVersionString>4.1.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description><![CDATA[<h2>What’s New in Discs 4.1.1</h2>
 <p>Fixes the Sparkle update package signing so the app validates and installs correctly.</p>]]></description>
-  <enclosure url="https://github.com/emilianooowo/Discs-Releases/releases/download/v4.1.1/Discs-4.1.1.zip" length="4663471" type="application/octet-stream" sparkle:edSignature="NDAe2tz9M9YOZ6zrPK8m7/L9LhGjiZc0x7tVR7mcPPIC5+L+aJrsbVJq+om69mYRlq14OQ6weC5hlZ2nHXlkDQ==" />
-</item>
+            <enclosure url="https://github.com/emilianooowo/Discs-Releases/releases/download/v4.1.1/Discs-4.1.1.zip" length="4663471" type="application/octet-stream" sparkle:edSignature="NDAe2tz9M9YOZ6zrPK8m7/L9LhGjiZc0x7tVR7mcPPIC5+L+aJrsbVJq+om69mYRlq14OQ6weC5hlZ2nHXlkDQ=="/>
+        </item>
         <item xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
-  <title>Discs 4.1</title>
-  <link>https://github.com/emilianooowo/Discs-Releases/releases/tag/v4.1</link>
-  <pubDate>Tue, 03 Nov 2026 13:14:00 -0600</pubDate>
-  <sparkle:version>19</sparkle:version>
-  <sparkle:shortVersionString>4.1</sparkle:shortVersionString>
-  <sparkle:minimumSystemVersion>26.0.0</sparkle:minimumSystemVersion>
-  <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-  <description><![CDATA[<h2>What’s New in Discs 4.1</h2>
+            <title>Discs 4.1</title>
+            <link>https://github.com/emilianooowo/Discs-Releases/releases/tag/v4.1</link>
+            <pubDate>Tue, 03 Nov 2026 13:14:00 -0600</pubDate>
+            <sparkle:version>19</sparkle:version>
+            <sparkle:shortVersionString>4.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description><![CDATA[<h2>What’s New in Discs 4.1</h2>
 <ul>
 <li>A simpler Add CD flow for entering the CDs you own.</li>
 <li>Find an editable tracklist through iTunes.</li>
@@ -49,29 +65,28 @@
 <li>Removed MusicBrainz, Cover Art Archive, automatic metadata and the separate music-database search.</li>
 <li>Simplified legacy backup import while retaining encrypted backups and import safety checks.</li>
 </ul>]]></description>
-  <enclosure url="https://github.com/emilianooowo/Discs-Releases/releases/download/v4.1/Discs-4.1.zip" length="5756904" type="application/octet-stream" sparkle:edSignature="dQ82B4uixopL0hS/SJQhnIpya0swRYtdk3sUOWtbRYoho3ZZm00S1WtcZUKiZxEyqNBMSJ/zZ8PMrJ2MsOk2Cg==" />
-</item>
+            <enclosure url="https://github.com/emilianooowo/Discs-Releases/releases/download/v4.1/Discs-4.1.zip" length="5756904" type="application/octet-stream" sparkle:edSignature="dQ82B4uixopL0hS/SJQhnIpya0swRYtdk3sUOWtbRYoho3ZZm00S1WtcZUKiZxEyqNBMSJ/zZ8PMrJ2MsOk2Cg=="/>
+        </item>
         <item xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
-  <title>Discs 4.0</title>
-  <link>https://github.com/emilianooowo/Discs-Releases/releases/tag/v4.0</link>
-  <sparkle:version>18</sparkle:version>
-  <sparkle:shortVersionString>4.0</sparkle:shortVersionString>
-  <sparkle:minimumSystemVersion>26.0.0</sparkle:minimumSystemVersion>
-  <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-  <description><![CDATA[Password-protected library backups, independent grid and list preferences, and collection and navigation improvements. Requires an Apple silicon Mac.]]></description>
-  <enclosure url="https://github.com/emilianooowo/Discs-Releases/releases/download/v4.0/Discs-4.0.zip" length="5745504" type="application/octet-stream" sparkle:edSignature="bN9uqSFapw9Q2v47pRvIr53EFHxl/kzvKKAxuND8quSfgJrlcI3Fo3P9xrqeHBxJG1DHwy04m5wC5KadxRw3Bg==" />
-</item>
+            <title>Discs 4.0</title>
+            <link>https://github.com/emilianooowo/Discs-Releases/releases/tag/v4.0</link>
+            <sparkle:version>18</sparkle:version>
+            <sparkle:shortVersionString>4.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description><![CDATA[Password-protected library backups, independent grid and list preferences, and collection and navigation improvements. Requires an Apple silicon Mac.]]></description>
+            <enclosure url="https://github.com/emilianooowo/Discs-Releases/releases/download/v4.0/Discs-4.0.zip" length="5745504" type="application/octet-stream" sparkle:edSignature="bN9uqSFapw9Q2v47pRvIr53EFHxl/kzvKKAxuND8quSfgJrlcI3Fo3P9xrqeHBxJG1DHwy04m5wC5KadxRw3Bg=="/>
+        </item>
         <item xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
-  <title>Discs 3.9</title>
-  <link>https://github.com/emilianooowo/Discs-Releases/releases/tag/v3.9</link>
-  <sparkle:version>17</sparkle:version>
-  <sparkle:shortVersionString>3.9</sparkle:shortVersionString>
-  <sparkle:minimumSystemVersion>26.0.0</sparkle:minimumSystemVersion>
-  <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-  <description><![CDATA[Security and privacy improvements for library backups, images, and online searches. Requires an Apple silicon Mac.]]></description>
-  <enclosure url="https://github.com/emilianooowo/Discs-Releases/releases/download/v3.9/Discs.zip" length="5655855" type="application/octet-stream" sparkle:edSignature="nOFB9h4X7XOmzEANKHkmQhcJbW/OVQI/6yCdoapRFlQi0jXxmg9yJ3ryx87S1oyL76Bh0L9HScvxZdf2Ja3BAw==" />
-</item>
-
+            <title>Discs 3.9</title>
+            <link>https://github.com/emilianooowo/Discs-Releases/releases/tag/v3.9</link>
+            <sparkle:version>17</sparkle:version>
+            <sparkle:shortVersionString>3.9</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description><![CDATA[Security and privacy improvements for library backups, images, and online searches. Requires an Apple silicon Mac.]]></description>
+            <enclosure url="https://github.com/emilianooowo/Discs-Releases/releases/download/v3.9/Discs.zip" length="5655855" type="application/octet-stream" sparkle:edSignature="nOFB9h4X7XOmzEANKHkmQhcJbW/OVQI/6yCdoapRFlQi0jXxmg9yJ3ryx87S1oyL76Bh0L9HScvxZdf2Ja3BAw=="/>
+        </item>
         <title>Discs</title>
         <item>
             <title>3.7.0</title>
@@ -202,4 +217,3 @@
         </item>
     </channel>
 </rss>
-
