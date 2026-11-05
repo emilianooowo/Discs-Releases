@@ -2,7 +2,7 @@
   <img src="https://github.com/emilianooowo/Discs-Releases/blob/main/1024.png" alt="Discs App Icon" width="222">
 </p>
 
-<p align="center"><a href="https://github.com/emilianooowo/Discs-Releases/releases/latest/download/Discs.zip"><strong>Download Discs 3.7.0</strong></a></p>
+<p align="center"><a href="https://github.com/emilianooowo/Discs-Releases/releases/latest/download/Discs.zip"><strong>Download latest Discs version</strong></a></p>
 
 <h1 align="center">Discs</h1>
 
