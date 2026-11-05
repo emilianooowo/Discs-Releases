@@ -2,6 +2,25 @@
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
         <item xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <title>Discs 4.2.0</title>
+  <link>https://github.com/emilianooowo/Discs-Releases/releases/tag/v4.2.0</link>
+  <pubDate>Wed, 04 Nov 2026 17:52:21 -0600</pubDate>
+  <sparkle:version>21</sparkle:version>
+  <sparkle:shortVersionString>4.2.0</sparkle:shortVersionString>
+  <sparkle:minimumSystemVersion>26.0.0</sparkle:minimumSystemVersion>
+  <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+  <description><![CDATA[<h2>What’s New in Discs 4.2.0</h2>
+<ul>
+<li>Build a shuffle queue in Now Playing and browse its selected albums in the carousel.</li>
+<li>Search lyrics by song, artist, and album, including combined searches.</li>
+<li>Identify instrumental search results and mark selected tracks as instrumental.</li>
+<li>Show only the interactive tutorial on first launch until it is completed or skipped.</li>
+<li>Includes collection editing, layout, artwork scaling, and navigation improvements.</li>
+</ul>]]></description>
+  <enclosure url="https://github.com/emilianooowo/Discs-Releases/releases/download/v4.2.0/Discs-4.2.0.zip" length="25799459" type="application/octet-stream" sparkle:edSignature="mA/TavFamYvPSIS5d7wqBmrSEQ9oEVdWWtDctpJMyn2P5RyBy2h4X84L1NpoVhBTI1n6DWA2HQ0/0AK7nBPMBQ==" />
+</item>
+
+        <item xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
   <title>Discs 4.1.1</title>
   <link>https://github.com/emilianooowo/Discs-Releases/releases/tag/v4.1.1</link>
   <pubDate>Tue, 03 Nov 2026 13:50:54 -0600</pubDate>
@@ -183,3 +202,4 @@
         </item>
     </channel>
 </rss>
+
