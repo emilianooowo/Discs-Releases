@@ -2,6 +2,20 @@
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
         <item>
+            <title>4.2.9</title>
+            <pubDate>Wed, 04 Nov 2026 22:33:02 -0600</pubDate>
+            <sparkle:version>23</sparkle:version>
+            <sparkle:shortVersionString>4.2.9</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description sparkle:format="markdown"><![CDATA[# Discs 4.2.9
+
+- Refine artist profiles with full-width banners, white artist names, and Liquid Glass Total and Plays pills.
+- Zoom and reposition artist banners and profile photos while editing.
+]]></description>
+            <enclosure url="https://github.com/emilianooowo/Discs-Releases/releases/download/v4.2.9/Discs-4.2.9.zip" length="25829737" type="application/octet-stream" sparkle:edSignature="72VicdTlye0QjN7+jmIdY3DPxtiQqs+/TmHTPkWje45F1CtjIG3gx159nDi3TWMo9SM0jmeUuB05gXD9MKnSAw=="/>
+        </item>
+        <item>
             <title>4.2.8</title>
             <pubDate>Wed, 04 Nov 2026 21:41:51 -0600</pubDate>
             <sparkle:version>22</sparkle:version>
