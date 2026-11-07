@@ -2,6 +2,24 @@
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
         <item>
+            <title>4.3</title>
+            <link>https://github.com/emilianooowo/Discs-Releases/releases/tag/v4.3</link>
+            <pubDate>Sat, 07 Nov 2026 23:46:55 GMT</pubDate>
+            <sparkle:version>24</sparkle:version>
+            <sparkle:shortVersionString>4.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description sparkle:format="markdown"><![CDATA[# Discs 4.3
+
+- Add albums with a redesigned search or manual workflow, including a wishlist option.
+- Move wishlist albums to your collection with a confirmation and available release date and tracklist.
+- Customize your library with refreshed Settings and flat or 3D artwork.
+- Browse album notes beside more music from the same artist.
+- Enjoy improvements to lyrics navigation, artist profiles, locations, and the first-run tutorial.
+]]></description>
+            <enclosure url="https://github.com/emilianooowo/Discs-Releases/releases/download/v4.3/Discs-4.3.zip" length="25917282" type="application/octet-stream" sparkle:edSignature="fVgCMn6dtilhjt6ENTjnnKSwRQ8QsW6JZxQF+lC8kFM1KOJeskOYM48IQJaDlH6Lq4e5q0LyEv4WaDbxy9SAw=="/>
+        </item>
+        <item>
             <title>4.2.9</title>
             <pubDate>Wed, 04 Nov 2026 22:33:02 -0600</pubDate>
             <sparkle:version>23</sparkle:version>
