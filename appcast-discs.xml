@@ -17,9 +17,55 @@
 - Find related search suggestions in Listen History and Now Playing.
 ]]></description>
             <enclosure url="https://github.com/emilianooowo/Discs-Releases/releases/download/v4.4/Discs-4.4.zip" length="25931172" type="application/octet-stream" sparkle:edSignature="lDYPYUhcqLCqwPBazpKa34Kn9XtbcN3mW1L/YWTR098LWvEcyVPX9ThIPRbgAMInEcBwLR1TVIPkgts/ACUNBg=="/>
-            <sparkle:deltas>
-                <enclosure url="https://github.com/emilianooowo/Discs-Releases/releases/download/v4.4/Discs25-21.delta" sparkle:deltaFrom="21" length="710642" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="941872" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="JN06kxlhDbMyk6iVqE+8es6hTGrdh8qnm862MtkAQt3EEDl4v8F36f/5gG4iY6M+9IgS0dfPDonp1ckQu/KoCg=="/>
-            </sparkle:deltas>
+        </item>
+<item>
+            <title>4.3</title>
+            <link>https://github.com/emilianooowo/Discs-Releases/releases/tag/v4.3</link>
+            <pubDate>Sat, 07 Nov 2026 23:46:55 GMT</pubDate>
+            <sparkle:version>24</sparkle:version>
+            <sparkle:shortVersionString>4.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description sparkle:format="markdown"><![CDATA[# Discs 4.3
+
+- Add albums with a redesigned search or manual workflow, including a wishlist option.
+- Move wishlist albums to your collection with a confirmation and available release date and tracklist.
+- Customize your library with refreshed Settings and flat or 3D artwork.
+- Browse album notes beside more music from the same artist.
+- Enjoy improvements to lyrics navigation, artist profiles, locations, and the first-run tutorial.
+]]></description>
+            <enclosure url="https://github.com/emilianooowo/Discs-Releases/releases/download/v4.3/Discs-4.3.zip" length="25917282" type="application/octet-stream" sparkle:edSignature="fVgCMn6dtilhjt6ENTjnnKSwRQ8QsW6JZxQF+lC8kFM1KOJeskjOYM48IQJaDlH6Lq4e5q0LyEv4WaDbxy9SAw=="/>
+        </item>
+        <item>
+            <title>4.2.9</title>
+            <pubDate>Wed, 04 Nov 2026 22:33:02 -0600</pubDate>
+            <sparkle:version>23</sparkle:version>
+            <sparkle:shortVersionString>4.2.9</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description sparkle:format="markdown"><![CDATA[# Discs 4.2.9
+
+- Refine artist profiles with full-width banners, white artist names, and Liquid Glass Total and Plays pills.
+- Zoom and reposition artist banners and profile photos while editing.
+]]></description>
+            <enclosure url="https://github.com/emilianooowo/Discs-Releases/releases/download/v4.2.9/Discs-4.2.9.zip" length="25829737" type="application/octet-stream" sparkle:edSignature="72VicdTlye0QjN7+jmIdY3DPxtiQqs+/TmHTPkWje45F1CtjIG3gx159nDi3TWMo9SM0jmeUuB05gXD9MKnSAw=="/>
+        </item>
+        <item>
+            <title>4.2.8</title>
+            <pubDate>Wed, 04 Nov 2026 21:41:51 -0600</pubDate>
+            <sparkle:version>22</sparkle:version>
+            <sparkle:shortVersionString>4.2.8</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description sparkle:format="markdown"><![CDATA[# Discs 4.2.8
+
+- Give artist profiles a bold new look with edge-to-edge banners, a theme-matched gradient, and a refreshed profile photo editor.
+- Limit artist banners and profile photos to 15 MB and 24 megapixels, and save them at up to 2048 pixels.
+- Enjoy a clearer Now Playing experience with a fixed-size cover, adaptive location selector, and messages for empty locations.
+- Keep wishlist artwork fully opaque while dimming it.
+- Set the Settings window to a fixed height of 700 points.
+]]></description>
+            <enclosure url="https://github.com/emilianooowo/Discs-Releases/releases/download/v4.2.8/Discs-4.2.8.zip" length="25821834" type="application/octet-stream" sparkle:edSignature="xebV74qSO5WdNwdY5AsHvfrNIMR7pDQHLrNwLg4NtTky2U1GjybdEnHH0k8OA3fJ9Xx3vgJs9FOZlpj1G0KIBQ=="/>
         </item>
         <item xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
             <title>Discs 4.2.0</title>
@@ -29,7 +75,15 @@
             <sparkle:shortVersionString>4.2.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/emilianooowo/Discs-Releases/releases/download/v4.4/Discs-4.2.0.zip" length="25799459" type="application/octet-stream" sparkle:edSignature="mA/TavFamYvPSIS5d7wqBmrSEQ9oEVdWWtDctpJMyn2P5RyBy2h4X84L1NpoVhBTI1n6DWA2HQ0/0AK7nBPMBQ=="/>
+            <description><![CDATA[<h2>What’s New in Discs 4.2.0</h2>
+<ul>
+<li>Build a shuffle queue in Now Playing and browse its selected albums in the carousel.</li>
+<li>Search lyrics by song, artist, and album, including combined searches.</li>
+<li>Identify instrumental search results and mark selected tracks as instrumental.</li>
+<li>Show only the interactive tutorial on first launch until it is completed or skipped.</li>
+<li>Includes collection editing, layout, artwork scaling, and navigation improvements.</li>
+</ul>]]></description>
+            <enclosure url="https://github.com/emilianooowo/Discs-Releases/releases/download/v4.2.0/Discs-4.2.0.zip" length="25799459" type="application/octet-stream" sparkle:edSignature="mA/TavFamYvPSIS5d7wqBmrSEQ9oEVdWWtDctpJMyn2P5RyBy2h4X84L1NpoVhBTI1n6DWA2HQ0/0AK7nBPMBQ=="/>
         </item>
         <item xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
             <title>Discs 4.1.1</title>
@@ -61,6 +115,26 @@
 <li>Simplified legacy backup import while retaining encrypted backups and import safety checks.</li>
 </ul>]]></description>
             <enclosure url="https://github.com/emilianooowo/Discs-Releases/releases/download/v4.1/Discs-4.1.zip" length="5756904" type="application/octet-stream" sparkle:edSignature="dQ82B4uixopL0hS/SJQhnIpya0swRYtdk3sUOWtbRYoho3ZZm00S1WtcZUKiZxEyqNBMSJ/zZ8PMrJ2MsOk2Cg=="/>
+        </item>
+        <item xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+            <title>Discs 4.0</title>
+            <link>https://github.com/emilianooowo/Discs-Releases/releases/tag/v4.0</link>
+            <sparkle:version>18</sparkle:version>
+            <sparkle:shortVersionString>4.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description><![CDATA[Password-protected library backups, independent grid and list preferences, and collection and navigation improvements. Requires an Apple silicon Mac.]]></description>
+            <enclosure url="https://github.com/emilianooowo/Discs-Releases/releases/download/v4.0/Discs-4.0.zip" length="5745504" type="application/octet-stream" sparkle:edSignature="bN9uqSFapw9Q2v47pRvIr53EFHxl/kzvKKAxuND8quSfgJrlcI3Fo3P9xrqeHBxJG1DHwy04m5wC5KadxRw3Bg=="/>
+        </item>
+        <item xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+            <title>Discs 3.9</title>
+            <link>https://github.com/emilianooowo/Discs-Releases/releases/tag/v3.9</link>
+            <sparkle:version>17</sparkle:version>
+            <sparkle:shortVersionString>3.9</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description><![CDATA[Security and privacy improvements for library backups, images, and online searches. Requires an Apple silicon Mac.]]></description>
+            <enclosure url="https://github.com/emilianooowo/Discs-Releases/releases/download/v3.9/Discs.zip" length="5655855" type="application/octet-stream" sparkle:edSignature="nOFB9h4X7XOmzEANKHkmQhcJbW/OVQI/6yCdoapRFlQi0jXxmg9yJ3ryx87S1oyL76Bh0L9HScvxZdf2Ja3BAw=="/>
         </item>
         <title>Discs</title>
         <item>
@@ -107,6 +181,88 @@
 </ul>
 ]]></description>
             <enclosure url="https://github.com/emilianooowo/Discs-Releases/releases/download/v3.6.0/Discs.zip" length="8139169" type="application/octet-stream" sparkle:edSignature="Q0TaWq6V4T90rUO3TJw27F8wQe6/eU2cWds45RGNZzNKOA4ujBPdSwbX9Fv1jsvyl4nfHw1W1bM1I3qy5OeOBw=="/>
+        </item>
+        <item>
+            <title>3.5.0</title>
+            <pubDate>Mon, 02 Nov 2026 17:39:59 -0600</pubDate>
+            <link>https://github.com/emilianooowo/Discs-Releases/releases/tag/v3.5.0</link>
+            <sparkle:version>10</sparkle:version>
+            <sparkle:shortVersionString>3.5.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>What's new in Discs 3.5.0</h2>
+<ul>
+<li>Create a local profile with a custom name and photo.</li>
+<li>See collection totals, recent albums, and all-time listening favorites.</li>
+<li>Include your profile in library backups and follow your preferred shelf style and zoom.</li>
+<li>Filter listening history by month, year, or all time.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/emilianooowo/Discs-Releases/releases/download/v3.5.0/Discs.zip" length="7819896" type="application/octet-stream" sparkle:edSignature="EkOb+0tl7ilTtGFjHEcWfYIkV/OS6Cb2gHuaNl3fceIoHVHfrHw/GKqwM1FBq+XBgNybzXBMYEbu/My1as2ZAw=="/>
+        </item>
+        <item>
+            <title>3.4.0</title>
+            <pubDate>Mon, 02 Nov 2026 16:07:38 -0600</pubDate>
+            <link>https://github.com/emilianooowo/Discs-Releases/releases/tag/v3.4.0</link>
+            <sparkle:version>7</sparkle:version>
+            <sparkle:shortVersionString>3.4.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>What’s new in Discs 3.4.0</h2>
+<ul>
+<li>Edit shared CD fields with clear mixed values and pickers for tags, locations, editions, and imported countries.</li>
+<li>See consistent domestic, imported, unknown-country, and unset labels across album details and tables.</li>
+<li>Find clearer context-menu actions with system icons, and edit multiple selected albums from the grid or table.</li>
+<li>Use simplified Settings, more focused artist, genre, and location tables, and a compact recent listening-history preview.</li>
+<li>Search the manual CD picker in Shuffle and use a simpler Now Playing experience.</li>
+<li>Removed phrase-based notifications.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/emilianooowo/Discs-Releases/releases/download/v3.4.0/Discs.zip" length="5817296" type="application/octet-stream" sparkle:edSignature="+Jt5H/wWJ6Imf5G0I8XrmraN3X8D/L/A7nMFba3tapuTH3M6TZYPpzokVrvkEG8rawUMAwhnyPMi860RsqveCQ=="/>
+        </item>
+        <item>
+            <title>3.3.0</title>
+            <pubDate>Mon, 02 Nov 2026 14:32:43 -0600</pubDate>
+            <link>https://github.com/emilianooowo/Discs-Releases</link>
+            <sparkle:version>6</sparkle:version>
+            <sparkle:shortVersionString>3.3.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>What’s new in Discs 3.3.0</h2>
+<ul>
+<li>Select multiple CDs in All CDs and edit shared details such as tags, locations, edition, and country of origin together.</li>
+<li>Open the complete listening history in its own view.</li>
+<li>Search listening history by artist, album, or genre with matching results across the page.</li>
+<li>Improved navigation stability when opening artist profiles.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/emilianooowo/Discs-Releases/releases/download/v3.3.0/Discs.zip" length="5825335" type="application/octet-stream" sparkle:edSignature="JQhiBaCjKMSGcyAdDnrFuyhFgn3k21nXM06NHJwWTd7rvcxNN8Q87eB+dt8oF59Es/Ztpc7WB9y5Zet0UMreCQ=="/>
+        </item>
+        <item>
+            <title>3.2.0</title>
+            <description><![CDATA[
+                <h2>What’s new</h2>
+                <ul>
+                    <li>Choose a home country and set a country of origin for each CD. Existing albums stay unchanged unless you edit their country.</li>
+                    <li>Sort each location table independently.</li>
+                    <li>See the selected album under the Now Playing title and use an improved location selector.</li>
+                    <li>Search genres globally and avoid duplicate albums in tag results.</li>
+                    <li>Lyrics adapt their contrast to the album background.</li>
+                    <li>Library Dates uses native Liquid Glass options.</li>
+                </ul>
+            ]]></description>
+            <pubDate>Mon, 02 Nov 2026 03:40:37 +0000</pubDate>
+            <link>https://github.com/emilianooowo/Discs-Releases/releases/tag/v3.2.0</link>
+            <sparkle:version>5</sparkle:version>
+            <sparkle:shortVersionString>3.2.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/emilianooowo/Discs-Releases/releases/download/v3.2.0/Discs.zip" length="5715451" type="application/octet-stream" sparkle:edSignature="x598QwnF0vUvhM9xvSMsVDTLF8eIx8ec/TEJZOJlk4mzPmVLolJNWMrFLVHIJWsd166clOf3FmEYKi5vq7fSAg=="/>
+        </item>
+        <item>
+            <title>3.1</title>
+            <pubDate>Sun, 01 Nov 2026 19:43:22 -0600</pubDate>
+            <link>https://github.com/emilianooowo/Discs-Releases/releases/latest</link>
+            <sparkle:version>4</sparkle:version>
+            <sparkle:shortVersionString>3.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/emilianooowo/Discs-Releases/releases/download/v3.1.0/Discs.zip" length="5692671" type="application/octet-stream" sparkle:edSignature="/UFPZ9zYaaJUjxzPSIotW21ydX+xmc56Pq5v1CBm/+oGUeW6aLI2b8cCVKiXfROipo+kYowSGCSatb/I/P5uDg=="/>
         </item>
     </channel>
 </rss>
