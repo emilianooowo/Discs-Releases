@@ -2,6 +2,25 @@
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
         <item>
+            <title>4.5</title>
+            <link>https://github.com/emilianooowo/Discs-Releases/releases/tag/v4.5</link>
+            <pubDate>Sat, 14 Nov 2026 14:39:16 -0600</pubDate>
+            <sparkle:version>26</sparkle:version>
+            <sparkle:shortVersionString>4.5</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description sparkle:format="markdown"><![CDATA[# Discs 4.5
+
+- Edit albums in dedicated Details, Artwork, Tracklist, Lyrics, and Notes sections, with tracklist editing sized to the content and separate blocks for multi-disc releases.
+- Keep lyrics paired with their tracks; replacing a tracklist now warns before deleting its saved lyrics.
+- Move through songs with the keyboard in Now Playing and album details, and read lyrics in a side panel without covering album information.
+- Improve toolbar customization, keep controls in a consistent order, and choose icon-only or icon-and-text labels.
+- Truncate album details cleanly in narrow layouts and prevent them from flashing while switching songs.
+- Make genre and profile views more responsive, support five-character minimum passwords for library backups, and fix Swift 6 decoding isolation in artwork search.
+]]></description>
+            <enclosure url="https://github.com/emilianooowo/Discs-Releases/releases/download/v4.5/Discs-4.5.zip" length="25962029" type="application/octet-stream" sparkle:edSignature="l44QGHPQUQeFVXocoAuhfGX0/jC6+z4L7B5ufam5ReBA0zi6XBVgDU0vDquU53v+JVAotX53uysxPO26A49DDQ=="/>
+        </item>
+        <item>
             <title>4.4</title>
             <pubDate>Sun, 08 Nov 2026 22:03:40 -0600</pubDate>
             <sparkle:version>25</sparkle:version>
