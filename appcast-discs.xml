@@ -4,7 +4,7 @@
         <item>
             <title>4.5.1</title>
             <link>https://github.com/emilianooowo/Discs-Releases/releases/tag/v4.5.1</link>
-            <pubDate>Tue, 17 Nov 2026 01:33:38 -0600</pubDate>
+            <pubDate>Tue, 17 Nov 2026 17:38:32 +0000</pubDate>
             <sparkle:version>27</sparkle:version>
             <sparkle:shortVersionString>4.5.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
@@ -16,8 +16,9 @@
 - Improve song title contrast against light and dark album backgrounds, with more space around the menu indicator.
 - Set lyrics to 12 points in Now Playing and album details for a more compact reading layout.
 - Keep the Add Lyrics action available for songs without saved lyrics and preserve instrumental track messages.
+- Fix the Check for Updates menu so its enabled state follows Sparkle after automatic update checks.
 ]]></description>
-            <enclosure url="https://github.com/emilianooowo/Discs-Releases/releases/download/v4.5.1/Discs-4.5.1.zip" length="25899694" type="application/octet-stream" sparkle:edSignature="59SH8HUSCbDm9sQVVp1YQwpXfWpv5TW3NTd0+wkAoxTlGz3v5K2+/kY30wpVW9ViMK1Tlp/l+oeuiVrB7cOICQ=="/>
+            <enclosure url="https://github.com/emilianooowo/Discs-Releases/releases/download/v4.5.1/Discs-4.5.1.zip" length="25967934" type="application/octet-stream" sparkle:edSignature="blw5Du+5U+LankW0NtNCB7yVo+KmOwCGP2DIS+I1uJcpI5duPWSpJuO8QOor0HT/Hr8tzg7lwlujKLbYvXJyDA=="/>
         </item>
         <item>
             <title>4.5</title>
