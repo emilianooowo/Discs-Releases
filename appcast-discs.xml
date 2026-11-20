@@ -2,6 +2,25 @@
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
         <item>
+            <title>4.7</title>
+            <link>https://github.com/emilianooowo/Discs-Releases/releases/tag/v4.7</link>
+            <pubDate>Fri, 20 Nov 2026 20:07:28 GMT</pubDate>
+            <sparkle:version>29</sparkle:version>
+            <sparkle:shortVersionString>4.7</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description sparkle:format="markdown"><![CDATA[# Discs 4.7
+
+- Browse Artists in table or grid view, open profiles from either view, and view an artist’s albums in a table.
+- Personalize artist profiles with original-quality banners and photos, optional dynamic backgrounds, and smoother navigation.
+- Explore release and acquisition dates in Calendar with clearer date labels, anniversary markers, and album tables.
+- Enjoy a refined Now Playing layout and a flat, spaced artwork carousel.
+- Control dynamic backgrounds separately for Now Playing and artist profiles, and use Settings windows that adapt to their content.
+- See more natural in-app anniversary notifications that mention album names.
+- Use a simplified toolbar and browse a refreshed, scrollable About page.]]></description>
+            <enclosure url="https://github.com/emilianooowo/Discs-Releases/releases/download/v4.7/Discs-4.7.zip" length="26002850" type="application/octet-stream" sparkle:edSignature="hxmzhWS/XNvAal9rJaUeP7izPxY5brOAlMRx20ZTXnrBIBZEPDTeBdTPC0MGGPzrzdrqYv8EMwWmcwB6U72MDQ=="/>
+        </item>
+        <item>
             <title>4.6</title>
             <link>https://github.com/emilianooowo/Discs-Releases/releases/tag/v4.6</link>
             <pubDate>Fri, 20 Nov 2026 01:02:28 +0000</pubDate>
