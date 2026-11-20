@@ -2,6 +2,27 @@
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
         <item>
+            <title>4.6</title>
+            <link>https://github.com/emilianooowo/Discs-Releases/releases/tag/v4.6</link>
+            <pubDate>Fri, 20 Nov 2026 01:02:28 +0000</pubDate>
+            <sparkle:version>28</sparkle:version>
+            <sparkle:shortVersionString>4.6</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description sparkle:format="markdown"><![CDATA[# Discs 4.6
+
+- Add CDs to your collection in five focused steps for album details, artwork, tracklists, collection details, and notes, with a window that adapts to each step.
+- Add albums to your wishlist in a dedicated form with artwork, artist, and album fields, available from the Add menu or Command–Shift–N.
+- Complete wishlist album and artist names from selected artwork search results, matching artists already in your library.
+- Browse compact artwork search results in a four-column grid, with improved handling of punctuation and apostrophes in album and artist names.
+- Search tracklists in a floating results panel below the search bar, import multi-disc releases into separate editors, and add or remove tracklists with compact controls.
+- Reuse cached artwork and load covers for online lyrics results concurrently, displaying artwork from your collection immediately when available.
+- Open the newly added album after saving to your collection, or return to Wishlist after adding a wishlist album.
+- Retry artwork searches when MusicBrainz temporarily limits requests, with clearer service availability messages.
+]]></description>
+            <enclosure url="https://github.com/emilianooowo/Discs-Releases/releases/download/v4.6/Discs-4.6.zip" length="25982877" type="application/octet-stream" sparkle:edSignature="gH9iLccnfum9KOVVZf8Mi7qLZMCqPht6RrWwICY+h9kv84b3pDs5BhNXpphyLyrSXdKCWP/Nw2MON6uoEdbjAQ=="/>
+        </item>
+        <item>
             <title>4.5.1</title>
             <link>https://github.com/emilianooowo/Discs-Releases/releases/tag/v4.5.1</link>
             <pubDate>Tue, 17 Nov 2026 17:38:32 +0000</pubDate>
