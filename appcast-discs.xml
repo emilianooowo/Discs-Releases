@@ -2,6 +2,22 @@
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
         <item>
+            <title>4.7.5</title>
+            <link>https://github.com/emilianooowo/Discs-Releases/releases/tag/v4.7.5</link>
+            <pubDate>Sat, 21 Nov 2026 02:05:45 +0000</pubDate>
+            <sparkle:version>30</sparkle:version>
+            <sparkle:shortVersionString>4.7.5</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description sparkle:format="markdown"><![CDATA[# Discs 4.7.5
+
+- Reorder and resize the existing columns in Locations list view.
+- Show the full album tables in artist profiles without nested scrolling.
+- Simplify the empty state in Favorites and center the active album and artist in Now Playing.
+]]></description>
+            <enclosure url="https://github.com/emilianooowo/Discs-Releases/releases/download/v4.7.5/Discs-4.7.5.zip" length="4822938" type="application/octet-stream" sparkle:edSignature="uX2c3FqHwgw20thrir+Sv1TDA+EKGeweCwoqEqirbASUwFz0wVyIlueOOyTwrQfVEeW00kU6UVyBkmNdjuVeDw=="/>
+        </item>
+        <item>
             <title>4.7</title>
             <link>https://github.com/emilianooowo/Discs-Releases/releases/tag/v4.7</link>
             <pubDate>Fri, 20 Nov 2026 20:07:28 GMT</pubDate>
