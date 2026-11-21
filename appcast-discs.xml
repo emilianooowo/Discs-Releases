@@ -2,6 +2,21 @@
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
         <item>
+            <title>4.7.6</title>
+            <link>https://github.com/emilianooowo/Discs-Releases/releases/tag/v4.7.6</link>
+            <pubDate>Sat, 21 Nov 2026 02:41:39 +0000</pubDate>
+            <sparkle:version>31</sparkle:version>
+            <sparkle:shortVersionString>4.7.6</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description sparkle:format="markdown"><![CDATA[# Discs 4.7.6
+
+- Give every view its own artwork size. Use ⌘ + and ⌘ − to resize the active view without changing the others; press ⌘ 0 to restore its default size.
+- Find a more welcoming guide to Discs features in About, with clearer descriptions across the release history.
+]]></description>
+            <enclosure url="https://github.com/emilianooowo/Discs-Releases/releases/download/v4.7.6/Discs-4.7.6.zip" length="4828209" type="application/octet-stream" sparkle:edSignature="bVe77Fzrcfq3154TpHB5UrBRUGySUfwNpS/XqgT7JOryi+ITZl/86wTh1N5hT8lmwsap52OW2TcTd0RJ3GCEDw=="/>
+        </item>
+        <item>
             <title>4.7.5</title>
             <link>https://github.com/emilianooowo/Discs-Releases/releases/tag/v4.7.5</link>
             <pubDate>Sat, 21 Nov 2026 02:05:45 +0000</pubDate>
