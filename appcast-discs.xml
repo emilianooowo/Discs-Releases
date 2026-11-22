@@ -2,6 +2,23 @@
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
         <item>
+            <title>4.7.8</title>
+            <link>https://github.com/emilianooowo/Discs-Releases/releases/tag/v4.7.8</link>
+            <pubDate>Sun, 22 Nov 2026 02:21:15 +0000</pubDate>
+            <sparkle:version>33</sparkle:version>
+            <sparkle:shortVersionString>4.7.8</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description sparkle:format="markdown"><![CDATA[# Discs 4.7.8
+
+- Switch between Tracklist, Notes, and More from one control in album details. Find other albums by the same artist in More.
+- Format album notes with bold, italics, lists, and dividers, and preview them while adding or editing an album.
+- Assign multiple tags to an album. Add or remove tags across selected albums, find tagged albums with search or filters, and keep their tags in library backups.
+- Reach navigation, library search, filters, and anniversaries from the macOS menu bar, and use clearer controls in album and listening-session dialogs.
+]]></description>
+            <enclosure url="https://github.com/emilianooowo/Discs-Releases/releases/download/v4.7.8/Discs-4.7.8.zip" length="4883281" type="application/octet-stream" sparkle:edSignature="VZKjQdX/Nna35+kKO7EuGWnaibA+dOLSHVvMeJ+mFO8I+o/VXRcMCGQziRl5PBwHuIsdp+Nq+OGFjyBl+kVgAQ=="/>
+        </item>
+        <item>
             <title>4.7.7</title>
             <link>https://github.com/emilianooowo/Discs-Releases/releases/tag/v4.7.7</link>
             <pubDate>Sat, 21 Nov 2026 03:13:56 +0000</pubDate>
